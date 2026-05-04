@@ -1,13 +1,13 @@
-# 🍵 Tea Cozy Website
+#  Tea Cozy Website
 
-## 📌 Project Description
+##  Project Description
 Tea Cozy is a simple and elegant static website built using **HTML and CSS**.  
 It represents a fictional tea shop and showcases its mission, featured teas, and locations.  
 The project focuses on layout design, flexbox, positioning, and background image handling.
 
 ---
 
-## 🚀 Features
+##  Features
 - Fixed navigation header
 - Hero section with mission statement
 - Featured "Tea of the Month" grid layout
@@ -17,13 +17,13 @@ The project focuses on layout design, flexbox, positioning, and background image
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML5
 - CSS3 (Flexbox, Positioning, Background Images)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 /Tea-Cozy
 │── index.html
 │── style.css
